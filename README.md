@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Alice Ding - [ayd2134](https://github.com/ayd2134)
+
+Eric Lin - [exl7954](https://github.com/exl7954)
+
+Justin Zhao - [zhaojustin](https://github.com/zhaojustin)
 
 ## Stakeholders
 
