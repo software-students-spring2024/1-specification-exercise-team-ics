@@ -12,7 +12,56 @@ Justin Zhao - [zhaojustin](https://github.com/zhaojustin)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Overview
+
+We conducted stakeholder interviews with two people who we thought fit our target audience. The purpose of our interviews were to understand their specific needs and whether or not our project would be able to address them. By also interviewing two people from different backgrounds, we are also able to get a broader view of how our project would address the different needs of different people.
+
+#### Interview 1: Jared Zhao
+
+- graduated college in 2020
+- currently is the head of his own startup
+- has flexible time for vacation and disposable income
+
+**Findings**
+
+- Jared brought up that one recurring thought was that he wanted to take a break from work, which can be stressful, but he had no idea where to go.
+- One of his needs is a central place to easily see different destinations that he could go.
+- Another need is to be able to see the estimated total cost of the entire trip.
+  - This is because even if a destination has cheaper accomodation and can seem like an ideal trip on Booking.com, it may have very high travel costs.
+- Along these lines, one frustration he has is not being able to easily estimate how much a trip would cost in total without going to multiple sites at once.
+  - He personally uses Expedia, but perhaps there is a better price on a different site, and he feels the need to have to do extensive research manually.
+- Time is limited for him, as his days are busy, so another frustration is that simply estimating costs for where to go is very time-consuming.
+
+#### Interview 2: Joseph Wang
+
+- current college student at NYU, c/o 2025
+- lower disposable income, availability for vacation depends on school schedule (spring/winter break, etc)
+
+**Findings**
+
+- Joseph and his friends want to take a trip somewhere during spring break, but they have no specific destination in mind.
+  - However, he and his friends do not want to spend too much.
+  - Thus, one need is a place to give suggestions for places to go given a certain budget.
+- Another need that Joseph has is to input specific dates.
+  - This is important because he only has certain days free out of the year due to schooling. He does not want to miss school for vacation.
+
+#### Overall Needs and Frustrations
+
+Below we list the needs and frustrations that we identified through our two interviews with stakeholders.
+
+**Frustrations**
+
+1. Prices for hotels and flights are inconsistent between different sites such as Google Flights, Expedia, Booking.com, etc.
+2. The need to go to multiple sites to estimate an overall cost for a specific trip, making the process very time-consuming.
+3. Wasting time looking for trips that end up being too expensive for the budget.
+4. Having to perform actual research on different destinations, perhaps creating a spreadsheet or notes document to do so. This makes it harder to plan things, as just estimating costs takes a lot of effort.
+
+**Needs**
+
+1. A central location to see an estimated cost for trips to different destinations.
+2. The ability to select specific dates to go and come back, since users may have tight schedules.
+3. The ability to compare prices between different sites, or automatically choose the one with the lowest/best price.
+4. The ability to set a specific budget, so that the user can see only the trips that they would be willing to take anyways.
 
 ## Product Vision Statement
 
