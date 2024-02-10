@@ -65,11 +65,15 @@ Below we list the needs and frustrations that we identified through our two inte
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app is designed to aggregate available flight data and costs of traveling to find possible vacation plans for users on a set budget but don't know where to go.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a frequent flier, I want flight data from different sites and airlines all in one place so that I can save time looking for flights individually.
+2. As someone on a strict budget, I want to see all costs from flights, hotels, transportation, and estimated food costs up front so that I won't be surprised by how much I spend later.
+3. As a bad vacation planner, I want potential vacation plans suggested to me so that all I need to do is pick and choose.
+
+**We need 7 more of these**
 
 ## Activity Diagrams
 
