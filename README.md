@@ -16,7 +16,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app is designed to aggregate available flight data and costs of traveling to find possible vacation plans for users on a set budget but don't know where to go.
 
 ## User Requirements
 
