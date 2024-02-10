@@ -70,10 +70,15 @@ Our app is designed to aggregate available flight data and costs of traveling to
 ## User Requirements
 
 1. As a frequent flier, I want flight data from different sites and airlines all in one place so that I can save time looking for flights individually.
-2. As someone on a strict budget, I want to see all costs from flights, hotels, transportation, and estimated food costs up front so that I won't be surprised by how much I spend later.
-3. As a bad vacation planner, I want potential vacation plans suggested to me so that all I need to do is pick and choose.
-
-**We need 7 more of these**
+2. As someone on a strict budget, I want to see all costs from flight and hotel costs up-front so that I can get an estimate for each location.
+3. As someone who is not well-informed about vacataion destinations, I want potential vacation plans suggested to me so that all I need to do is pick and choose.
+4. As someone with a strict schedule, I want to be able to set specific dates for my vacation.
+5. As a seasoned traveler who uses many different travel search sites, I would like a place to compare prices from the many different sites.
+6. As someone who likes to travel with friends and family, I would like to send my travel plans to my friends via email or social media.
+7. As a seasoned traveler, I would like to see some more unique suggestions for places that I may not have been before.
+8. As someone who does not know travel sites well, I want the link to all the bookings directly on the site.
+9. As a luxurious traveler, I would like the ability to filter by 4 and 5-star hotels only.
+10. As someone who hates transfer flights, I would like the ability to find nonstop flights only.
 
 ## Activity Diagrams
 
