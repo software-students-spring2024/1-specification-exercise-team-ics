@@ -86,4 +86,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to Figma](https://www.figma.com/file/4XZA0xAuhAq09x2ouOzONG/project-1-wireframe?type=design&node-id=0%3A1&mode=design&t=RtTApZ4YhpPbKJXq-1)
