@@ -82,7 +82,13 @@ Our app is designed to aggregate available flight data and costs of traveling to
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User stories used: 
+
+"As someone who likes to travel with friends and family, I would like to send my travel plans to my friends via email or social media."
+
+"As someone on a strict budget, I want to see all costs from flight and hotel costs up-front so that I can get an estimate for each location."
+
+![Project 1 Team ICS UML Activity Diagrams](<Project 1 UML Activity Diagrams.jpeg>)
 
 ## Clickable Prototype
 
